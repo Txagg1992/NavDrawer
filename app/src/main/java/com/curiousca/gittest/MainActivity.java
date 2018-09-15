@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
     public void gitTest(View view) {
 
         textView.setText("I WIN!!");
+        textView.setTextSize(40);
+        textView.setTextColor(Color.BLACK);
 
         button.setBackgroundColor(Color.GREEN);
         button.setText("Success");
