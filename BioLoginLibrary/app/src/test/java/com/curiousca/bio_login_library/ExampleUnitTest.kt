@@ -1,4 +1,4 @@
-package com.curiousca.bio_lib_login
+package com.curiousca.bio_login_library
 
 import org.junit.Test
 
